@@ -81,7 +81,13 @@ Prisma, followers 5.7k :arrow_up: (Abril 2019)
 ![w:150 logo](./logo.png)
 ## :computer: Mejor un ejercicio
 &nbsp;
-**Usando para Frontend:** React, Chakra, Apollo.
-**Y para Backend:** Babel, Nodemon, Prisma, GraphQL Yoga (GrahQL otro que vale la pena :heart:)
-
+**Usando para Frontend:** React, Chakra, Apollo (buenísimo :heart:).
+**Y para Backend:** Babel, Nodemon, Prisma, GraphQL Yoga (GraphQL otro que vale la pena :heart:)
+&nbsp;
+Enfoque: https://www.prisma.io/
 Repo: https://github.com/XixeBombilla/laprevia
+
+---
+
+## Muchas gracias :pray:
+### Preguntas :question:
