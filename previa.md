@@ -83,3 +83,5 @@ Prisma, followers 5.7k :arrow_up: (Abril 2019)
 &nbsp;
 **Usando para Frontend:** React, Chakra, Apollo.
 **Y para Backend:** Babel, Nodemon, Prisma, GraphQL Yoga (GrahQL otro que vale la pena :heart:)
+
+Repo: https://github.com/XixeBombilla/laprevia
